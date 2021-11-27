@@ -12,7 +12,7 @@ A. Download ISO Installer windows server 2022
 
         Enter the name of the machine and type of system to use
             
-    ![](Gambar/1.png)
+    ![](Gambar\1.png)
     - Define ram, create the disk defining type and size
 
     ![](Gambar/2.png)
